@@ -1,2 +1,3 @@
-onxess-theme-basic
-==================
+Basic Shop Theme for http://onxess.com
+======================================
+
