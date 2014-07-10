@@ -1,3 +1,3 @@
-Basic Shop Theme for http://onxess.com
+Basic Shop Theme for obsolete theme engine of http://onshop.de (former Onxess.com)
 ======================================
 
